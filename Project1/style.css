@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+#results {
+    display:none;
+  }
+
+body {
+ background-image: url("money.jpeg");
+ background-color: #cccccc;
+}
+
+.card-body {
+
+Background-color: #a17fb5;
+}
+
